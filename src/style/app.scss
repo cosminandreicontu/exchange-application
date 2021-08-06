@@ -1,0 +1,19 @@
+$box-shadow-color: 0px 1px 5px 0 rgba(41,85,115,.21);
+
+html, body {
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  font-family: sans-serif;
+  color: #162d3d;
+  overflow: hidden;
+}
+.root-container{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
